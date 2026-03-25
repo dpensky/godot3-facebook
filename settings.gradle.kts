@@ -23,4 +23,4 @@ dependencyResolutionManagement {
 }
 
 rootProject.name = "Godot Facebook"
-include(":facebook-plugin")
+include(":plugin")
